@@ -1,0 +1,24 @@
+{
+    "name": "js-paint",
+    "version": "1.0.0",
+    "description": "paint!",
+    "main": "main.js",
+    "dependencies": {
+        "electron": "^10.1.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "electron main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/juanefec/js-paint.git"
+    },
+    "author": "juan clot",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/juanefec/js-paint/issues"
+    },
+    "homepage": "https://github.com/juanefec/js-paint#readme"
+}
